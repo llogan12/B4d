@@ -1,0 +1,14 @@
+/run/initialize
+/gps/particle proton
+/gps/energy 40 MeV
+/gps/pos/type Plane
+/gps/pos/shape Circle
+
+/gps/pos/radius 0. mm
+
+/gps/pos/centre 0. 0. -9.75 cm
+
+/gps/direction 0 0 1
+/run/beamOn 1000000
+
+
